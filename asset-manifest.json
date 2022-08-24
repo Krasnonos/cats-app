@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cats-app/static/css/main.9f49bb76.css",
+    "main.js": "/cats-app/static/js/main.5ae329b0.js",
+    "static/media/home.png": "/cats-app/static/media/home.b85610870b3300cbb88f.png",
+    "static/media/icons.svg": "/cats-app/static/media/icons.40b1291aa6a21f655db3b30ba0ccb745.svg",
+    "index.html": "/cats-app/index.html",
+    "main.9f49bb76.css.map": "/cats-app/static/css/main.9f49bb76.css.map",
+    "main.5ae329b0.js.map": "/cats-app/static/js/main.5ae329b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f49bb76.css",
+    "static/js/main.5ae329b0.js"
+  ]
+}
